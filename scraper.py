@@ -3,7 +3,6 @@ from bs4 import BeautifulSoup
 import os
 import smtplib
 from email.message import EmailMessage
-import time
 
 URL = 'https://www.amazon.in/Test-Exclusive-609/dp/B07HGJFVL2/ref=pd_sbs_107_2/257-0163823-3642022?_' \
       'encoding=UTF8&pd_rd_i=B07HGJFVL2&pd_rd_r=9ade700b-9f11-11e9-a5ca-9db2b39189b1&pd_rd_w=wUriD&pd_rd_wg=eMUui&' \
